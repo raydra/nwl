@@ -1,4 +1,4 @@
-# Next level Week
+# Next level Week 1
 
 Projeto desenvolvido durante a imersão react da RockSeat.
 
